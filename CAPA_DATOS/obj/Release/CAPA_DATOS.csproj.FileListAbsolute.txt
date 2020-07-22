@@ -1,0 +1,38 @@
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.ERROR_D.resources
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.NOTIFICACION_ONE.resources
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.CopyComplete
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\bin\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\bin\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.ERROR_D.resources
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.NOTIFICACION_ONE.resources
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.CopyComplete
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_DATOS\obj\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\bin\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\bin\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.ERROR_D.resources
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.NOTIFICACION_ONE.resources
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.csproj.CopyComplete
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_DATOS\obj\Release\CAPA_DATOS.pdb

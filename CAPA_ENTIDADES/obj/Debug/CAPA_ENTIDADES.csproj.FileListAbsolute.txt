@@ -1,0 +1,6 @@
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\bin\Debug\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\bin\Debug\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Debug\CAPA_ENTIDADES.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Debug\CAPA_ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Debug\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Debug\CAPA_ENTIDADES.pdb

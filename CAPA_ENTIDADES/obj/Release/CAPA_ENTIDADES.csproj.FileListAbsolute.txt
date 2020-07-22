@@ -1,0 +1,18 @@
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\software_tracking\CAPA_ENTIDADES\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_ENTIDADES\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\software_tracking\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_ENTIDADES\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_ENTIDADES\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_ENTIDADES\obj\Release\CAPA_ENTIDADES.pdb

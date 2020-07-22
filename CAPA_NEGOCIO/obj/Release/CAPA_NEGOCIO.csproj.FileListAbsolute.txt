@@ -1,0 +1,36 @@
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\bin\Release\CAPA_NEGOCIO.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\bin\Release\CAPA_NEGOCIO.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\bin\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\bin\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\bin\Release\CAPA_NEGOCIO.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\bin\Release\CAPA_NEGOCIO.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\bin\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\bin\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.dll
+C:\Users\felip\Desktop\software_tracking\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\bin\Release\CAPA_NEGOCIO.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\bin\Release\CAPA_NEGOCIO.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\bin\Release\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\bin\Release\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\bin\Release\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\bin\Release\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software Completo\CAPA_NEGOCIO\obj\Release\CAPA_NEGOCIO.pdb

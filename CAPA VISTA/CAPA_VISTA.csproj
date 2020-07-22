@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2F733D7F-33F8-4193-88DE-351ACDF92F9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Software_Seguimiento</RootNamespace>
+    <AssemblyName>Software_Seguimiento</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2019\Imagenes y Framework\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ERROR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ERROR.Designer.cs">
+      <DependentUpon>ERROR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FACTURAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACTURAS.Designer.cs">
+      <DependentUpon>FACTURAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FACTURAS_INFO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACTURAS_INFO.Designer.cs">
+      <DependentUpon>FACTURAS_INFO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NOTIFICACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NOTIFICACION.Designer.cs">
+      <DependentUpon>NOTIFICACION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NOTIFICACION_AVISO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NOTIFICACION_AVISO.Designer.cs">
+      <DependentUpon>NOTIFICACION_AVISO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PANEL_PRINCIPAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PANEL_PRINCIPAL.Designer.cs">
+      <DependentUpon>PANEL_PRINCIPAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="USUARIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USUARIOS.Designer.cs">
+      <DependentUpon>USUARIOS.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ERROR.resx">
+      <DependentUpon>ERROR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACTURAS.resx">
+      <DependentUpon>FACTURAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACTURAS_INFO.resx">
+      <DependentUpon>FACTURAS_INFO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NOTIFICACION.resx">
+      <DependentUpon>NOTIFICACION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NOTIFICACION_AVISO.resx">
+      <DependentUpon>NOTIFICACION_AVISO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PANEL_PRINCIPAL.resx">
+      <DependentUpon>PANEL_PRINCIPAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USUARIOS.resx">
+      <DependentUpon>USUARIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proyecto-de-ley.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross-mark-on-a-black-circle-background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashmoneybills_119658.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CAPA_ENTIDADES\CAPA_ENTIDADES.csproj">
+      <Project>{e24098e4-3a3c-4932-bee6-a6260f9aace5}</Project>
+      <Name>CAPA_ENTIDADES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CAPA_NEGOCIO\CAPA_NEGOCIO.csproj">
+      <Project>{a236adcb-e963-48d9-826b-510740cab007}</Project>
+      <Name>CAPA_NEGOCIO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDITAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ELIMINAR1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GUARDAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NUEVO.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

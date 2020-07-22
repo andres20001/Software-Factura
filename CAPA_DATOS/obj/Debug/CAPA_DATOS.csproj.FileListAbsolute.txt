@@ -1,0 +1,13 @@
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Debug\CAPA_ENTIDADES.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Debug\CAPA_ENTIDADES.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CopyComplete
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.NOTIFICACION_ONE.resources
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\Proyecto Software Contable\Software_Seguimiento\CAPA_DATOS\obj\Debug\CAPA_DATOS.ERROR_D.resources
